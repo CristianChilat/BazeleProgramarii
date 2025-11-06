@@ -11,6 +11,7 @@ int main() {
     int Vasile = Ion - 2;
 
     cout << "Vasile spune: ";
+
     for (int i = 0; i < 5; i++) {
         cout << Vasile << " ";
         Vasile++;

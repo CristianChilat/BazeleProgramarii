@@ -40,7 +40,7 @@ int main() {
 
     zi++;
 
-    if ((luna == 4 || luna == 6 || luna == 9 || luna == 11) && zi > 30) {
+    if ((luna == 4 || luna == 6 || luna == 9 || luna == 11 || luna == 12) && zi > 30) {
         zi = 1;
         luna++;
     } else if (luna == 2) {
