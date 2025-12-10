@@ -1,0 +1,16 @@
+15
+Romania Bucuresti Europa 238397 19000000
+China Beijing Asia 9596961 1400000000
+Rusia Moscova Asia 17098242 144000000
+Moldova Chisinau Europa 33846 2600000
+SUA Washington America 9833520 331000000
+Franta Paris Europa 551695 67000000
+Germania Berlin Europa 357022 83000000
+Italia Roma Europa 301340 60000000
+Spania Madrid Europa 505990 47000000
+Ucraina Kiev Europa 603628 44000000
+Japonia Tokyo Asia 377975 126000000
+India NewDelhi Asia 3287263 1380000000
+Brazilia Brasilia America 8515767 213000000
+Canada Ottawa America 9984670 38000000
+Australia Canberra Australia 7692024 25000000
